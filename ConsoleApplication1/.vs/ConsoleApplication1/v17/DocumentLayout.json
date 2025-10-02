@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tjwjd\\OneDrive\\Desktop\\Visual Stutio Project\\Section01\\ConsoleApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0452596D-CDEC-482D-91A4-B748FC9AF934}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\tjwjd\\OneDrive\\Desktop\\Visual Stutio Project\\Section01\\ConsoleApplication1\\ConsoleApplication1\\Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0452596D-CDEC-482D-91A4-B748FC9AF934}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0452596D-CDEC-482D-91A4-B748FC9AF934}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\tjwjd\\OneDrive\\Desktop\\Visual Stutio Project\\Section01\\ConsoleApplication1\\ConsoleApplication1\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0452596D-CDEC-482D-91A4-B748FC9AF934}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0452596D-CDEC-482D-91A4-B748FC9AF934}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\tjwjd\\OneDrive\\Desktop\\Visual Stutio Project\\Section01\\ConsoleApplication1\\ConsoleApplication1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0452596D-CDEC-482D-91A4-B748FC9AF934}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.h",
+              "DocumentMoniker": "C:\\Users\\tjwjd\\OneDrive\\Desktop\\Visual Stutio Project\\Section01\\ConsoleApplication1\\ConsoleApplication1\\Item.h",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\Item.h",
+              "ToolTip": "C:\\Users\\tjwjd\\OneDrive\\Desktop\\Visual Stutio Project\\Section01\\ConsoleApplication1\\ConsoleApplication1\\Item.h",
+              "RelativeToolTip": "ConsoleApplication1\\Item.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAtwAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-28T08:04:15.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inventory.h",
+              "DocumentMoniker": "C:\\Users\\tjwjd\\OneDrive\\Desktop\\Visual Stutio Project\\Section01\\ConsoleApplication1\\ConsoleApplication1\\Inventory.h",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\Inventory.h",
+              "ToolTip": "C:\\Users\\tjwjd\\OneDrive\\Desktop\\Visual Stutio Project\\Section01\\ConsoleApplication1\\ConsoleApplication1\\Inventory.h",
+              "RelativeToolTip": "ConsoleApplication1\\Inventory.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-28T06:15:17.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\tjwjd\\OneDrive\\Desktop\\Visual Stutio Project\\Section01\\ConsoleApplication1\\ConsoleApplication1\\main.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\main.cpp",
+              "ToolTip": "C:\\Users\\tjwjd\\OneDrive\\Desktop\\Visual Stutio Project\\Section01\\ConsoleApplication1\\ConsoleApplication1\\main.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-28T06:07:19.169Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
